@@ -1,0 +1,26 @@
+{
+  "name": "Milton Stone",
+  "age": 42,
+  "address": {
+    "street": "Conigu Extension",
+    "city": "Wiiziici",
+    "state": "NH",
+    "zip": "79934"
+  },
+  "contact": {
+    "phone": "(614) 995-2034",
+    "servicePhone": "800173395"
+  },
+  "birthday": "1995-05-14T14:08:05.036Z",
+  "ip": "145.225.178.70",
+  "foo": "bar",
+  "profile": {
+    "about": "Fev lutuh teghi vut zu mekib di fufidi iz un vi iveli celzuwuk ji lub lu mulac mun. Ak usi gerpafuvi vofme jobmemora caopjop denaj um mipoztef ta merlu kor ge kurerec garve. Igaisofi ofu gur fav ugebov tubuef fesof saeb metfobli lahi bav setbu uffe vah. Em iba uf opaiflud sa hukofco kisza oteam mo ihi esina ris gi cu.",
+    "bio": "Lij javapgo weef tehfinav vacdo we kuukebe pifumasud rub kimzi agnuj asme na awidipuw ul nom zo pu. Dibioj ro libic lofij jimu gefo fi wiggaf demaus og pa buse. Tahi obe ij razdabedi toslofbe peda cutrah nesalor wil dow goneumi jadec. Zunlilema zedlakfub voroku we jiftufahi kono tafwocip jebido dolzohfi evuruh tud wawej wefevu zalomnul tizemej epmeboc nofwonnos anesev. Jucofup zoama nomlomi pod apeece rajigka nornik mo ukzetoz aziga fa ida mam piura dimmo ehalev. Keca iwopesfof gopcive pezca hojeb mihuju peev tociszo vohfaop diineor fiz nocer liwpop. Pezoc riawano tov tuguwul ape ane motjel nolzunkas tu uracaw ahasivbin lejoteh dugmoeg vospe met."
+  },
+  "apiKey": "4f9f0f5235c03a798beae00f94c13b23e701ea4ec9d41ccfa74e287e02d3f7ce",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}

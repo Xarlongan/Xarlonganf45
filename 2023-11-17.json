@@ -1,0 +1,26 @@
+{
+  "name": "Mark Lloyd",
+  "age": 39,
+  "address": {
+    "street": "Vajko Street",
+    "city": "Movujda",
+    "state": "MA",
+    "zip": "04387"
+  },
+  "contact": {
+    "phone": "(578) 968-9481",
+    "servicePhone": "800799997"
+  },
+  "birthday": "1989-11-30T14:47:01.979Z",
+  "ip": "178.69.187.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Tizdoj sucnafun boragos nicwek pij nevutsu lemwo pukaura ala ku hejic lijel loguhewe. Cuzpen wu bares netonesih govuhim fa ru ile gajiwleb zic naaz nahoku husava naj jup ifcevu wir. Ilifov nok gaeki erhe fulevab torra asuso lufic roc fun pitusa wefilim jebu wef vawuka ise. Li vahdetuh nom ob ad dos vubi zut ursid umu idhohti jiv abobzin oheco getwu cagmek iwo zibzusja.",
+    "bio": "Rohum dinudkuc naftuwnon pah jipgehi kutjopvif hesrusofo muw gihubfu ek wipwi haceto beb utwe gezin ro nuwula. Zolutuupu co wackit fihcic tieza siuze cecgeduc fozji lejtivepi leguv ogo mujhuk dis incagli duvid. Su wolude loc dudkub kuror erhukom pis liphu umnaago zo ta ki nezbe sutcaces ruhwor neetat gucuah eke. Te puwduwrah gapag lekja teidedef ifenu hipoc muzpiov uv cefosbi coggirkuc mawbufpi nef zektamiv sewmul ne gu dunjazvi. Jun kej vo gizpap to cewe temci napeb ajuco nikjazi ok jiv wuhegom ocoducfa ireci."
+  },
+  "apiKey": "785c4e5b24b54592b9b4e9195f68d42268ce5306cc559ad55e9b86ba4d2c8832",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Cory Tate",
+  "age": 65,
+  "address": {
+    "street": "Mulha Park",
+    "city": "Maivaal",
+    "state": "OH",
+    "zip": "77439"
+  },
+  "contact": {
+    "phone": "(757) 999-7039",
+    "servicePhone": "800668666"
+  },
+  "birthday": "1983-05-23T23:21:22.787Z",
+  "ip": "26.220.155.86",
+  "foo": "bar",
+  "profile": {
+    "about": "Vuwbaj lapuvo uho elliw egufen evuro be ezidarta ri fed gewda oriwel lev. Ut nulwal apa owsagil kuga ri ni aj uku za isopedij vabar. Hap sab vo odirev mozpekna bejvu habsavoh to zuffesib tazike mifur zudwaf ujada tocotov ebu rodvuf.",
+    "bio": "Zozsavuh owimuenu baef wesi ati tuh wiima ropok icukufsor osu nikulus ujhoev bozasre nelumod bekobi vabcokit. Kehsukba la ni gatal bis vipumde omemetu nohuju ar mabumtow ce za ose zus nuv. Fulovi jub vim ekiwekfal gawafdah losenhof uza fiwitu siwvi je niziv mobostep ofoep. Durme dijsiti lizepzo ni gemlor goztajep gojnuro nomi himuc ki beftiv laslig guckat fadbioz likigap hadowa vujbapod."
+  },
+  "apiKey": "6d1960780525ddae963081c4334b8590faaf09b40c482c00a22567df249cc87c",
+  "currency": {
+    "code": "SYP",
+    "name": "Syria Pound"
+  }
+}

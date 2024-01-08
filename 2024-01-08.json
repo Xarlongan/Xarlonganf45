@@ -1,0 +1,26 @@
+{
+  "name": "Max Lee",
+  "age": 19,
+  "address": {
+    "street": "Fobbo Path",
+    "city": "Tukucip",
+    "state": "ME",
+    "zip": "92616"
+  },
+  "contact": {
+    "phone": "(354) 321-3902",
+    "servicePhone": "800747166"
+  },
+  "birthday": "1990-05-02T02:40:29.542Z",
+  "ip": "84.141.121.24",
+  "foo": "bar",
+  "profile": {
+    "about": "Ha mehnaf gedim rikze hihubliv kok paltuur fet ubapidtoh esdag beb lug tu re bicpugsim gahuz jostakpu sip. Fagjiute dajlec epalur we ne naropni rocujha adweliv nir wenogi nubceji dew beovujow uwsi irudsu dun lewip tiemape. Engakak obze saecwe emuda puceow lo upimep nu femtuluvo kicafa kabavras codasnor pif. Wacju ujitopgop zo kokkogzek poboztu pabes wowmu detuwli onzud kedlusu dohfaher bozazbet si bij hafa.",
+    "bio": "Afogu sem boivve pivu piw gasi ridiid gitimmit lavarref hed male oproc fahicu gavguuw ejaze. Je ahudegen awerajum mopacace giru garvuute wuccafzef gobug jeje sialuka kek wuife rin bin. Doje tune wepum munpuj ebzikaz imikilo nof laluf leih garipon jinpegkup ol bi kum."
+  },
+  "apiKey": "a7aa934efab981837211857bc82a2a16a53cc68a9f819fb992da590b21ea9a83",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}

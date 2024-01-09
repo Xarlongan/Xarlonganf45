@@ -1,0 +1,26 @@
+{
+  "name": "Lenora Mack",
+  "age": 19,
+  "address": {
+    "street": "Nillo Highway",
+    "city": "Ijobezi",
+    "state": "FL",
+    "zip": "79268"
+  },
+  "contact": {
+    "phone": "(604) 420-1003",
+    "servicePhone": "800544598"
+  },
+  "birthday": "1961-11-09T21:52:17.154Z",
+  "ip": "32.162.48.209",
+  "foo": "bar",
+  "profile": {
+    "about": "Leje gud pa uvoze lidag kawto hubde ki zu foc tohwelin ir hi tovirdi jasegceb. Teaw vu puzuluvem ganihan boj aw jeskarug ejo hi idgi jaot kew puzve oz. Bupgi joj topzaw akpejfuz tu koh bozsud wufum ce wueni hu zamofez bo caokooko pisregbu.",
+    "bio": "Osiow egbo face zese kawava piplu vagoj cef bepe jupuvo gu irevu ri ded wokwa ezuhamago. Remicri gezipop zumroine pabugri nobaj ohuwioso te ses if kuwued cuon ja jo lepab wi ujce untuho. Pa karsuf cipu kuftezac dagu hif iwvesa asejo ucirigra oz bi ehu sim."
+  },
+  "apiKey": "a6f75d7b415652fa74d4633f9ed7117d5cb855068a32c95231e159c8237bcab5",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}

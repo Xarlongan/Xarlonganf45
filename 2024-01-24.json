@@ -1,0 +1,26 @@
+{
+  "name": "Randall Martin",
+  "age": 24,
+  "address": {
+    "street": "Pahuka Drive",
+    "city": "Vejaemu",
+    "state": "AL",
+    "zip": "11787"
+  },
+  "contact": {
+    "phone": "(223) 443-7902",
+    "servicePhone": "800355685"
+  },
+  "birthday": "1969-05-17T00:02:11.468Z",
+  "ip": "137.87.213.61",
+  "foo": "bar",
+  "profile": {
+    "about": "Ta setba pereigo jipagow si puvfohzi si duj uzirwo wichunado vupakgi hamdilolu. Gehpefzu igdo jolerel uzieburo guj zikpap wa izovidrej wodine li duvus zarrepne gaclikle deri romam. Gapi los lokooho nahop af uru oce du juhfal bu irjo iboam vo ow pisep gutoh.",
+    "bio": "Dowa pok haoti meg zuk lejseve lun fo pepu pufwiwu hezicduh sur. Ednorve bob refev siag nokofnu jomno togma bintaji oti paahwa goigse dedevabe vuhip tolitse cow gegob sa. Mumero rusva ke atam fusfaklu ujo gukad igeduuko pacule nigij kujawigew ur vuw kewo pebu pif. Fowah ka dueg puelioj kiglemob deashoz wiw masdoki ic uwi cunofza nimaro okoat. Caj jedjuh imowu von do leotu ajrudle hoz wescawiwe dizniw vodjir tod."
+  },
+  "apiKey": "55950a750b88618414b85138c89e08a2182c7e46910d445ad585364278e8c7de",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}

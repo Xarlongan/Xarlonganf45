@@ -1,0 +1,26 @@
+{
+  "name": "Jim Haynes",
+  "age": 46,
+  "address": {
+    "street": "Anehe Parkway",
+    "city": "Cedeuf",
+    "state": "WY",
+    "zip": "44171"
+  },
+  "contact": {
+    "phone": "(938) 367-3854",
+    "servicePhone": "800311728"
+  },
+  "birthday": "1965-03-22T01:51:06.737Z",
+  "ip": "157.40.198.239",
+  "foo": "bar",
+  "profile": {
+    "about": "Tibeum das pat ke ijkeg opigoz rouz ifamo tol uvegvo ciwhu sarfo nausa de jecfu fujuv idavu ariwoupe. Daon ji lafobaho lonugowe sag gohhegleh vobodzo izo rur uliowo kik goctic li rit. Cihvuh jurejol wen azo reszebu ov fisak jo luruzle ine hildinhi havac nuhren un un hezlav.",
+    "bio": "Mogoruc usootwum tegwinoz opa upwog suare kega ehu lo esuofatal ninapce zeczita so cazcabjo. Li ece ivi tanim pukatlo fezo irefoba kuvuhuh gacvuw neptoc jedeju apopi raraj kujevesu. Jues keoweko pilto na ban ki zemu lat noipvuv osedepeg tajniro ijawat noele muja moecruz fomno. Abokaipo humku hote omwovag ropweohu fifvekwa guviz vi opodorit anu ib il."
+  },
+  "apiKey": "c84cb39d221c29fe696d87451e8ad3afd6e0f6fddac558d944d56acaec225e16",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}

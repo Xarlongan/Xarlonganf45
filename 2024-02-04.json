@@ -1,0 +1,26 @@
+{
+  "name": "Effie Baker",
+  "age": 18,
+  "address": {
+    "street": "Lihce Lane",
+    "city": "Wazowzor",
+    "state": "VA",
+    "zip": "54549"
+  },
+  "contact": {
+    "phone": "(860) 998-9093",
+    "servicePhone": "800949942"
+  },
+  "birthday": "1959-07-22T22:37:41.548Z",
+  "ip": "34.6.216.31",
+  "foo": "bar",
+  "profile": {
+    "about": "Didzingul ali ru homzahhiz sonhew keteb fumev umgosidi abnow pufom mubufgo gavu urunaul nihol ja dolu bumwidmug. Pap da komil hinur sewi wom voju osi kasfecad fademor suproj ve voluvu zeh le vabaf. Vol ru bel homus lujta gik ahuwobho zicol ilubu uhpentu hu aze coge wiup hosajetu naw lutwintu. Imna id taigte miw duh duhu uhuono ut ofo sadas ic ebekiow garzozlu coak zu suca. Cunnad gozpir wizaz rukeloni fuuda huumu wa nami mizwipnip pibijfu zowog suszo epafiut hozfoad. Sudzadupi odcabku orsibve avgosmi sadteb boletwoh fawader wi cij idi sozgowjeh amikibtu cufvo cupidji jiad bib boaduho tivavu.",
+    "bio": "Cusa dangi wonfi ru muli lomod ler nobo jaciz fuhzam basulos bama. Ekarehi gir pu po cuf hena eho bojgopi ififet gibijo derorhub akoer. Sepuw mogawme urrod alugic cac jacu neniitu ujaehre afusu newewo aw koev hiwi pep ago sajazepa fe."
+  },
+  "apiKey": "e8a2e2476709761ea6c54bd56f1cf893860a7b039fab28b5d176390f1cdb4c35",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}

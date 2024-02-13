@@ -1,0 +1,26 @@
+{
+  "name": "David Clark",
+  "age": 54,
+  "address": {
+    "street": "Kufe Terrace",
+    "city": "Zokoah",
+    "state": "MT",
+    "zip": "69188"
+  },
+  "contact": {
+    "phone": "(376) 917-6748",
+    "servicePhone": "800766638"
+  },
+  "birthday": "2006-04-06T08:54:19.964Z",
+  "ip": "182.161.200.50",
+  "foo": "bar",
+  "profile": {
+    "about": "Fec lufho limi rec ha ujtiruk junzole nol catiwe doos abebu gaw. Ot fakbi zop rog pa epunuzib ijrukjo pikah azeici nuv re len ku za la tavosetaw. Uvu ge serwavjal aflu sezeg wuz fu ijuwoki se por vi nikzit bamrimuz. Sero arwel ocazupa touko duc huza gaga nikutduh fergipbo fe jaligih janda cirebgal taz wef sofuj tibkaso ufpojviv. Momze ejougu geffo noaw nahob ejedobad ki fuut nof bojeere nuv ocpiv iwlekru zafuji ladjafew buh. Ira hamusic jow go rak vomij umozecib muclor uwhuri uwesomtuk etidodze no vonas tivieno kirdew fibo boni.",
+    "bio": "Gekjuw noh nujsahiw uftahav pesoka tijlug dungicjem givar hubzuh elfa he gar agakimos punil siroro. Rocan ogbofuv uca lofagiha nabupi evujevji wa adigeno binako car makwoc awamsem wuojafir ma irockup. Rikma kecu gidohim heuc okocel gohaw dine ew bim ocebugow gajsiw hesi vam ofe. Ceb icuwa co zafteguc kuhzuk kargaewo voegorec singob lutifzu raflesus ihaevke vozuf citonhe japirwek ohusisego sobur uj. Jimganli kesebav ase zofo esuetowe deh loh zumwaige hevsi jatme da woz nihoma tek halgu bul. Guk ih mu bimuwza fohned sej ci luwov na enieddo sozve dofmo."
+  },
+  "apiKey": "45222e6cd66d1d9b5c376515cb8ca267abae652e2bd3588716ac4131f7807f38",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}

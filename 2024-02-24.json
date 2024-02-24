@@ -1,0 +1,26 @@
+{
+  "name": "Jonathan Lane",
+  "age": 26,
+  "address": {
+    "street": "Zuad Heights",
+    "city": "Alsiota",
+    "state": "KS",
+    "zip": "80522"
+  },
+  "contact": {
+    "phone": "(853) 744-6504",
+    "servicePhone": "800377335"
+  },
+  "birthday": "1983-03-15T09:22:36.542Z",
+  "ip": "247.157.73.194",
+  "foo": "bar",
+  "profile": {
+    "about": "Piscecuti wagwicev gufeb pukbobu vetul gemroza bu looz giredes heva op fooveda. Wikoto lo zevuja gemginnu di iru visrihbar jute mobiw nucpuwu kivop bu. Ujielve ehuevvo tovuche ked nucsarug bu bupoom vok kajzu licfer ve bukzaf hekmem julkepe tavorsoz oda cu. Caphin fo wiajo az igeve buzom ebpov ujopulu biihni na fuha owoigego keumba.",
+    "bio": "Gurovi vuzeela wovfazser zokocwaz semuri uksupvid muv ika eduataiv ciocitib tacoz jilha tujek su vo duip amaor. Udi feabamo ce bijoje wildin zot ziipju vabwih ajko fe vurda migajha nun levifo uplibem kur. Tozjop sicfime ip gouf lac peformuv sefirzah koku piznoj hisonnik akafezbe vi ransenlic."
+  },
+  "apiKey": "da15824335ea67984f0798fd4234730c177cbd00d70e4ef6420254a19994e43f",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Carlos Diaz",
+  "age": 31,
+  "address": {
+    "street": "Komac Center",
+    "city": "Cudkoaw",
+    "state": "WV",
+    "zip": "75944"
+  },
+  "contact": {
+    "phone": "(515) 582-3024",
+    "servicePhone": "800917159"
+  },
+  "birthday": "1970-01-29T13:38:46.398Z",
+  "ip": "70.89.172.11",
+  "foo": "bar",
+  "profile": {
+    "about": "Guzu adiima ub pohvar ihecat mivinpa vekuwdu vozhiv lal uklib wozpime aba usa hu mohube kiahap pi go. Opkop muw ripvotu cuhu ivukulef ti cin sikbu kegmurha cehozu bew id gumefam jagevuem il. Saf ewabowe ik re ju dusewica to zes temic dig reasubim ruk fenbapfi.",
+    "bio": "Kazecen ab uri ver vudnoj caci modbohpuv jajuciv wabu domgef rubiowi sir uwebek hefu rorni epjihare radzat. Bobivwa cihmooda faj vizeg afe log jug mutic vidba teaw ko vetjogic vokri cap eseru zubfakus. Unmeg kiiso ju ve buuf ecamuwa tet kivuf tom luve ne guhe ejfap nob dejatow zewe min."
+  },
+  "apiKey": "fbbf9d434be2f54879a75d4a51e69142af4643198539d79fbb735ad4dd1cc215",
+  "currency": {
+    "code": "TOP",
+    "name": "Tonga Pa'anga"
+  }
+}

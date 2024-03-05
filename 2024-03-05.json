@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Reyes",
+  "age": 30,
+  "address": {
+    "street": "Koit Park",
+    "city": "Adisavze",
+    "state": "NY",
+    "zip": "87736"
+  },
+  "contact": {
+    "phone": "(731) 479-3097",
+    "servicePhone": "800642341"
+  },
+  "birthday": "1975-08-07T11:12:04.383Z",
+  "ip": "98.193.225.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Jejro onzosi maodota tafus muwma ne ge gi vablub ocuhojuf zoz laguj. Wava vatuve atlaj ki biivi voz hanat timeh du aco ho tuka es kebpev tabe humev tizerud. Mev tuz uc din nihwah rakkeino kum gih te uz vizov obdeb za revu kitcaboj la gapci. La milfidah ifgibig naba odcicar wohgoc eruko milvevgud sogtir homdin nafi ni mi lafvoka nabu.",
+    "bio": "Nupgelor terdop nigog fuuvonel omigev kar jiz it hubiko co wilbo hejakwu cagkenlo jo lidedur. Hek hobi me gibgevom ujilikag udta dazsa ro nes diz heco tetipsok agodevre ufohizaj voc afazol. Kis folhocit jez ripeb makwid cazseru din livceoje ruc mo webus im anlulhu gepajo. Sud muj zape da elcu elsa ebunif dofteku dobipam kakhuvrok wafiw zigilgi li. Pehzodge sa zitelwor as tatve vevecsef ratigah jimo radisu anevucco ehserbo loavesi diug. Tihre we cucoz owute ruhjencow nitetivag guviam wiol anfipo kelcid ko he nafihuz zujow ruotosu wis. Hugfa volgoco baz patkuim du zemascur mut icno uwovezmot segfu famew moanimes memezler."
+  },
+  "apiKey": "2800c8534dfafe216cb801ab79f74a322dff9cedb8f8673f358fbc148042c4fe",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}

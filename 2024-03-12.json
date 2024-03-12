@@ -1,0 +1,26 @@
+{
+  "name": "Lawrence Lucas",
+  "age": 26,
+  "address": {
+    "street": "Jeeg Boulevard",
+    "city": "Togihwo",
+    "state": "OH",
+    "zip": "92255"
+  },
+  "contact": {
+    "phone": "(280) 706-6992",
+    "servicePhone": "800458941"
+  },
+  "birthday": "2000-12-24T12:51:05.655Z",
+  "ip": "130.50.160.107",
+  "foo": "bar",
+  "profile": {
+    "about": "Erelem fave pi fez mum erpa muganloz iccocla behena vuciat how pin huvuba. Asugov di gavoba alcokij ma ek hashanus rug maadnek nul febehofi liaz ol. Zuvizab kotlardek remul vi owbavfo hirsoir lifivip ve go zunnuib buwo udoke igcaroj adiom sovo we doh upilitu.",
+    "bio": "Jireha ollu fenagpin defaj adfapjol refog kowil homeflep si no od rigtup luhijolu fotak zipo kop. Sof gumanu lat regafebu acesowi vivgazkat ge ke bizev urme mizupeb petena binam adimicit. Met ke ze esbidki zi hecbuad jal gokta dolusce os avunavlol mol zasanuapa zor necer jehatdah jocreri."
+  },
+  "apiKey": "3f0ed2bd11f7a6d1e9836a73662e988a0268617a2732d0dbc720e4b5fe62a5ef",
+  "currency": {
+    "code": "TTD",
+    "name": "Trinidad and Tobago Dollar"
+  }
+}

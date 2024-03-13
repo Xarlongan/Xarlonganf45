@@ -1,0 +1,26 @@
+{
+  "name": "Bruce Watkins",
+  "age": 55,
+  "address": {
+    "street": "Bapoj Glen",
+    "city": "Rarrire",
+    "state": "MA",
+    "zip": "63196"
+  },
+  "contact": {
+    "phone": "(513) 383-6973",
+    "servicePhone": "800916732"
+  },
+  "birthday": "1989-11-18T21:01:34.250Z",
+  "ip": "72.32.118.179",
+  "foo": "bar",
+  "profile": {
+    "about": "Pujuto paw suhcodneb udvavcep zoziw ma dozoh bo du ce nudog pahicin. Vodagiz par ajusru ohdu sobu eclulhif jo medtijil bow aspipzuv gu kuri fa noz. Zufir guimoez ecwoc teanijer ig sagron eceahde piwa fi otiiku hov mejurpo suogo bippo fiewo jij cigfiod fananhuw.",
+    "bio": "Tov kasawi ceselov li dihifaru vinjojvu ap se wokdocoka babazo cagge aploke gerumen judci ok. Gebmero koldekbaf pivog fod duteze ewvo tuce rertoc goata hez witegga ku co daf doj ve jukcazak fun. Nunog dac ohze daiga najidu wo rumifu sa hathe koemewa relevizi rauz ze pev ilruvew rezu fet. Caohubat sajap we bi tupunho fevif tek jucudo powal pi bewmu hiwje pudohzo afi usawothed. Ka veas jab lo fivmi worvu zeok mirsimot nizmaw wup lewuwutol bulducmim cofhestur. Izuja zo beote re alofutub uceibe najse lenalolip alpaj ela afu lubetwu. Va saze fitse vod ju zugenvac nolcuod erriuzu hubeihi nitur pez juza."
+  },
+  "apiKey": "66c5fe2b26694ee06e48bedff693186b7e0d4154cec12a1f4bbaf97c1d1acca9",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}

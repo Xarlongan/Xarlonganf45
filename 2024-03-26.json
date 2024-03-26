@@ -1,0 +1,26 @@
+{
+  "name": "Frank Stanley",
+  "age": 53,
+  "address": {
+    "street": "Wegla Road",
+    "city": "Wahpegec",
+    "state": "WY",
+    "zip": "32895"
+  },
+  "contact": {
+    "phone": "(633) 455-8760",
+    "servicePhone": "800996548"
+  },
+  "birthday": "1970-09-28T23:46:46.700Z",
+  "ip": "210.35.246.194",
+  "foo": "bar",
+  "profile": {
+    "about": "Rogaz mew wepem bopola iddok ceglatas aguh radep iz pon ika webik volog. Mirome zi biksej onajes hitacto nahti jorvepet citicuj ub tat wisakpav bi rute jakurulad kokuoce ke. Viwvu evuijeuz emepudoz ha pul garube obaciezo tappazoz niorota cod so werettuh bed cemugdur mosbiba egiud zovobo igi.",
+    "bio": "Souraguw buwziz wubdomju hookipi moktowam jepawac ranargas me cu aru li vananode usto tut suk ehadenit. Ve favdomko ki bizazle ifsoz tetloh kuidacab gu juheb cuj cembofrew pif nivkiz mowubud. Hisnab rirupagot iketot ore uzza avpajpi jejnuw lon ogep wo toggasbag nutgoor cigbafsen fo pucza. Kemi eg julahe piukiet ossam kiute pusa nafsod fi zuuli lacvebe petun."
+  },
+  "apiKey": "4cec4125dc83ff299a0fc51f0d0a3cf8e8e1ab61527b2087fd0cac1f2cb3cc64",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}

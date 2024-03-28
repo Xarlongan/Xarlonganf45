@@ -1,0 +1,26 @@
+{
+  "name": "Travis Cain",
+  "age": 42,
+  "address": {
+    "street": "Olago Manor",
+    "city": "Zejawanij",
+    "state": "OH",
+    "zip": "89046"
+  },
+  "contact": {
+    "phone": "(760) 402-1387",
+    "servicePhone": "800535278"
+  },
+  "birthday": "1972-06-10T22:44:11.061Z",
+  "ip": "101.220.161.179",
+  "foo": "bar",
+  "profile": {
+    "about": "Eriane tiuppe ture fi adu geeno toggetza lusoz si zawav reeci tek nav woclu inufuv. Nipi ig nekevepo ja dollunfa cofo doig rakhuwpo nucos up red haber nusohzed refsec. Buhce batiru jor vu emulauvi wod kajidam gijdeoc uhpew dohsuv wuuju kabeade lo.",
+    "bio": "Murokim nelapojef tod lod tonoc cu wa ofuapidu tonepjo me ciw be ta ajetek damvo pocem gomenu. Gehufjoz lebzu ifamru hir guvhoso veifube ege locam gejmo bo zupom gif ikuhos. Adiir hezona zujedjab javu vojaol vi runuvu ri wokin ahmo uc zoz."
+  },
+  "apiKey": "a8d648bdc4fb4a094f692c5a8f8580bccacf4faf4d3d9c01d63ddfcdbcc4a263",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
